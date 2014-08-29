@@ -1,0 +1,38 @@
+tables:
+
+users
+id (primary)
+email (unique)
+name
+password
+created
+updated
+
+characters
+id (primary)
+owner_id (foreign)
+name
+class
+description
+created
+updated
+
+games
+id (primary)
+owner_id (foreign)
+name
+description
+created
+updated
+
+sheets
+id (foreign)
+sheet
+created
+updated
+
+materials
+id (foreign)
+materials
+created
+updated

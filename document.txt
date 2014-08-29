@@ -1,0 +1,39 @@
+Character Keeper website
+
+Currently can
+See latest characters, games, and stories
+Login
+Sign up
+Forget password
+About
+Add/Edit/View Characters
+Add/Edit/View Games
+change user info
+
+
+New site will be able to
+See latest characters and games
+Login
+Sign up
+Forget password
+About
+View All Characters
+View All Games
+change user info
+
+Stories are nixxed. No reason to have them. Nobody used them.
+
+Home page
+  Similar, no need to go crazy.
+  Will show 3 latest characters and 3 latest games When not logged in
+  All Characters and all games button
+
+Logged in Home
+  Your characters & games right up front to be edited if you want.
+
+Login/Signup
+  Modal? Form?
+
+User page:
+  Change e-mail address
+  change password
